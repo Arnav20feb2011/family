@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+  
+  }
+  
+  #img1{
+    border-style:solid;
+    border-color:green;
+    padding:5px;
+    width:450px;
+    height:500px;
+    
+    
+  }
+  #text1{
+    font-size:50px;
+    
+  }
+  
